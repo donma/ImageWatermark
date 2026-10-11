@@ -1,0 +1,7 @@
+bin/
+obj/
+.vs/
+TestResults/
+*.user
+dist/*.old.exe
+TEST-REPORT.md

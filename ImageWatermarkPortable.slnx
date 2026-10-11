@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ImageWatermarkPortable/ImageWatermarkPortable.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ImageWatermarkPortable.Tests/ImageWatermarkPortable.Tests.csproj" />
+  </Folder>
+</Solution>
